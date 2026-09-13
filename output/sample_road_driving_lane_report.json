@@ -1,0 +1,8 @@
+{
+    "video_source": "sample_road_driving",
+    "total_frames_processed": 150,
+    "total_time_seconds": 3.0,
+    "average_fps": 50.0,
+    "mean_lane_offset_cm": -0.41,
+    "output_video": "output\\sample_road_driving_lane_detection_output.mp4"
+}
